@@ -36,3 +36,8 @@ Extracting breed and confidence from prediction column
 Creating a text number range column from display text range
 
 Extracting weekday from timestamp column.
+
+## Analysis Question 
+* How does the characteristics of the dog influence its ratings, retweets counts and favourite counts.These characteristics include breed, age group.
+
+* How does these features of a the tweet affect the engagements on a tweet.These features include Timestamp, Text Range, Source.
