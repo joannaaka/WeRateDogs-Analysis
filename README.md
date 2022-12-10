@@ -9,7 +9,7 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 
 ## Data Wrangling 
 
-### Quality Issues
+* Quality Issues
 
 There are duplicate columns in the data
 
@@ -27,7 +27,7 @@ The denominator ratings column have values greater or lesser than 10 and the num
 
 Extract the source name from the source column
 
-### Tidiness Issues
+* Tidiness Issues
 
 Creating a single column for the dog age that is doggo, floofer, pupper, puppo
 
