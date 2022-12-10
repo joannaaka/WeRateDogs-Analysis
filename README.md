@@ -4,3 +4,5 @@
 * Extensive Data Wrangling 
 * Generating Insights on Dogs Ratings 
 
+## Description 
+WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The account shares images of the dogs with a brief comment, then let their followers rate the dogs. These ratings almost always have a denominator of 10 with the numerator almost always above 10. For this project, WeRateDogs has downloaded their twitter archive, over 5000+ tweets which we'll be analysing. Also, Udacity ran every image in the WeRateDogs Twitter archive through a neural network that can classify breeds of dogs. Additional data from Twitter API including each tweet's retweet count and favourite(like) count. This project will including Wrangling acts and Analysing of the data.
